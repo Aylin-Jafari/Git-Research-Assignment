@@ -1,7 +1,7 @@
 
 ---
 
-## **3️⃣ pull.md**
+## **pull.md**
 ```markdown
 # Pull
 
